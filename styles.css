@@ -12,3 +12,17 @@ button {
   cursor: pointer;
   transition: all 0.3s ease;
 }
+
+
+main {
+  background-color: blueviolet;
+  border: none;
+  border-radius: 20px;
+  padding: 50px;
+  align-items: center;
+}
+
+body {
+  background-color: aqua;
+padding: 100px;  
+}
